@@ -17,6 +17,16 @@ Pemantauan Penjualan: Sistem ini juga dapat melacak penjualan rokok. Ketika penj
 
 Laporan dan Analisis: Sistem ini dapat menghasilkan laporan stok yang lengkap dan analisis terkait kinerja stok rokok. Laporan ini dapat mencakup informasi seperti total penjualan, persentase stok yang terjual, stok terlaris, dan lainnya. Analisis ini membantu pemilik atau pengelola bisnis untuk membuat keputusan yang lebih baik dalam mengelola persediaan rokok.
 
+TAMPILAN AWAL DARI CISMY
+
+<img width="339" alt="Screen Shot 2023-07-11 at 10 47 31" src="https://github.com/luqmanwithsomeone/Cismy/assets/138090368/909bd188-aec8-4e16-bd86-2452007dc4a8">
+
+
+<img width="363" alt="Screen Shot 2023-07-11 at 10 46 30" src="https://github.com/luqmanwithsomeone/Cismy/assets/138090368/2019d31e-41be-4d5d-9dd7-f6b43c9448cf">
+
+
+
+
 Keuntungan:
 
 Efisiensi Operasional: Sistem Pemantauan Stok Rokok membantu meningkatkan efisiensi operasional dengan mengurangi kebutuhan untuk memeriksa stok secara manual dan memproses pesanan secara tradisional. Hal ini menghemat waktu dan tenaga kerja yang berharga.
